@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Namrata</h1>
 <h3 align="center">B.Tech 2nd year coder.</h3>
 
-                                              - 🌱 I’m currently learning <strong>DSA with c++<strong>
+                                              - 🌱 I’m currently learning DSA with c++
 
-                                              - 💬 Ask me about **c++, DSA, CP**
+                                              - 💬 Ask me about c++, DSA, CP
 
-                                              - 📫 How to reach me **namratabose32@gmail.com**
+                                              - 📫 How to reach me namratabose32@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
