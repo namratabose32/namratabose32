@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Namrata</h1>
 <h3 align="center">B.Tech 2nd year coder.</h3>
 
-                                              - 🌱 I’m currently learning **DSA with c++**
+                                              - 🌱 I’m currently learning <strong>DSA with c++<strong>
 
                                               - 💬 Ask me about **c++, DSA, CP**
 
