@@ -7,6 +7,8 @@
 
                                               - 📫 How to reach me namratabose32@gmail.com
                                               
+                                              -  I am presently pursuing Btech in *Information Technology*.
+                                              
  <img align ="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="400px" />
 
 <h3 align="left">Connect with me:</h3>
