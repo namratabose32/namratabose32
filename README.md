@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namratabose32&show_icons=true&locale=en&layout=compact" alt="namratabose32" /></p>
 
-[![Namrata's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=namratabose32&theme=xcode)](https://github.com/namratabose32)
+<!-- [![Namrata's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=namratabose32&theme=xcode)](https://github.com/namratabose32) -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namratabose32&show_icons=true&locale=en" alt="namratabose32" /></p>
 
