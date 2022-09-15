@@ -3,7 +3,7 @@
 
                                               - 🌱 I’m currently learning DSA with c++
 
-                                              - 💬 Ask me about c++, DSA, CP
+                                              - 💬 Ask me about C++, DSA, CP
 
                                               - 📫 How to reach me namratabose32@gmail.com
                                               
