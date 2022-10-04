@@ -9,7 +9,7 @@
                                               
                                               -  I am presently pursuing Btech in "Information Technology".
                                               
- <img align ="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="350px" />
+ <img align ="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="470px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +28,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namratabose32&label=Profile%20views&color=0e75b6&style=flat" alt="namratabose32" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namratabose32&show_icons=true&locale=en&layout=compact" alt="namratabose32" /></p>
+<img align="right" height="394em" src="https://leetcard.jacoblin.cool/namrata_bose?theme=light&font=Karma&ext=contest" />
 
 <!-- [![Namrata's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=namratabose32&theme=xcode)](https://github.com/namratabose32) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namratabose32&show_icons=true&locale=en" alt="namratabose32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namratabose32&show_icons=true&locale=en" alt="namratabose32" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namratabose32&" alt="namratabose32" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namratabose32&" alt="namratabose32" /> </p>
+
