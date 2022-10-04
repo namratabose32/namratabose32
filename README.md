@@ -28,7 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namratabose32&label=Profile%20views&color=0e75b6&style=flat" alt="namratabose32" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namratabose32&show_icons=true&locale=en&layout=compact" alt="namratabose32" /></p>
-<img align="right" height="320em" src="https://leetcard.jacoblin.cool/namrata_bose?theme=light&font=Karma&ext=contest" />
+<img align="right" height="270em" src="https://leetcard.jacoblin.cool/namrata_bose?theme=light&font=Karma&ext=contest" />
 
 <!-- [![Namrata's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=namratabose32&theme=xcode)](https://github.com/namratabose32) -->
 
