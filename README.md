@@ -9,7 +9,7 @@
                                               
                                               -  I am presently pursuing Btech in "Information Technology".
                                               
- <img align ="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="500px" height="300px" />
+ <img align ="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="400px" height="300px" />
  
 
 <h3 align="left">Connect with me:</h3>
