@@ -1,3 +1,4 @@
+![](gitartwork.svg)
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Namrata</h1>
 <h3 align="center">B.Tech 3rd year coder.</h3>
 
@@ -49,3 +50,4 @@
 
 
 <img align="center" height="350em" width="900em" src="https://leetcard.jacoblin.cool/namrata_bose?theme=light&font=Karma&ext=contest" />
+
